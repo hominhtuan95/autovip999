@@ -1,0 +1,9 @@
+AUTO TRAIN MIL VA CO MO - 8 NHAN VAT
+
+Moi nhan vat: Tìm Quái (Tab 3,5 giây, có ô tích), Skill 1-6 (phím 1-6), Bay chỗ khác (7) (phím 7, có thời gian), Space tự động 1 giây.
+
+Bản quyền: 3 ngày / 6 tháng / vĩnh viễn, kiểm tra ngoại tuyến theo HWID. Chưa có máy chủ xác thực trực tuyến.
+
+Cần giữ PRIVATE_LICENSE_KEY.pem riêng trên máy cấp mã, không đưa lên GitHub. Nếu đã có khóa công khai trong bản build trước, hãy giữ nguyên PUBLIC_KEY_HEX tương ứng khi thay license_core.py. Chạy setup_license.py chỉ khi tạo bộ khóa mới.
+
+Build EXE: đẩy các file nguồn (không có private key) lên GitHub, vào Actions > Run workflow.
